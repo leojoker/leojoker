@@ -1,18 +1,26 @@
-<h1 align="center">Hi 👋, I'm Leonardo Barbosa</h1>
-<h3 align="center">A data scientist passionate for football from Brazil</h3>
-
+<p align="center">
+  <img src="https://github.com/leojoker/leojoker/raw/main/assets/github.gif" alt="Hi, I'm Leonardo Barbosa a passionate Data Scientist from Brazil 🇧🇷">
+</p>
 
 - 🔭 I’m currently working on **Trindade Comercio**
-
+- 🌱 I’m currently learning **about how to improve my teaching skills**
 - 👯 I’m looking to collaborate on **applied data science for football**
-
 - 👨‍💻 All of my projects are available at [https://www.kaggle.com/leonardobarbosa](https://www.kaggle.com/leonardobarbosa)
-
 - 📝 I regularly write articles on [https://leojoker.medium.com/](https://leojoker.medium.com/)
-
 - 📫 How to reach me **leodanimanu@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/leonardo-barbosa777/](https://www.linkedin.com/in/leonardo-barbosa777/)
+
+#### 📕 Blog Posts </h3>
+
+<!-- BLOG-POST-LIST:START -->
+under construction 
+
+<!-- Em construção 
+- [CRAWLER #02 — Horizon Workrooms, Tesla Bot, LGPD, Jupyter no VSCode, SIGGRAPH e Muito Mais](https://medium.com/programacaodinamica/d0f9e48b6086)
+- [Como usar o Google Colab para analisar dados?](https://medium.com/programacaodinamica/76e93a78bc01)
+- [O caso das vacinas vencidas](https://medium.com/programacaodinamica/eee5272bb014)
+- [Cientistas de dados serão substituídos por Inteligência Artificial?](https://medium.com/programacaodinamica/3dc4d0e32d7e)-->
+<!-- BLOG-POST-LIST:END -->
 
 
 <details>
