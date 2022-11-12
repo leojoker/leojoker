@@ -47,6 +47,8 @@ under construction
 <p align="left"> <a href="https://twitter.com/leojoker1" target="blank"><img src="https://img.shields.io/twitter/follow/leojoker1?logo=twitter&style=for-the-badge" alt="leojoker1" /></a> </p>
 
   
+![snake gif](https://github.com/leojoker/leojoker/blob/output/github-contribution-grid-snake.gif)  
+  
   <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leojoker" alt="leojoker" /></a> </p>
 -->
