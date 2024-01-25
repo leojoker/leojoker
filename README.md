@@ -9,6 +9,7 @@
 - 📝 I regularly write articles on [https://leojoker.medium.com/](https://leojoker.medium.com/)
 - 📫 How to reach me **leodanimanu@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/leonardo-barbosa777/](https://www.linkedin.com/in/leonardo-barbosa777/)
+- 📹 I have a tutorial channel on YouTube, subscribe to my channel [https://www.youtube.com/@leonardobarbosa777?sub_confirmation=1](https://www.youtube.com/@leonardobarbosa777?sub_confirmation=1)
 
 #### 📕 Blog Posts </h3>
 
