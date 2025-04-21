@@ -1,4 +1,4 @@
-# ![alt text](cientista-da-computacao-1.png) Leonardo Barbosa
+# ![alt text](image.png) Leonardo Barbosa
 
 **`Cientista de Dados ⚽ | Football Analytics | Python, SQL, Machine Learning | BI & Finanças | Instrutor CBF Academy
 `**
