@@ -1,17 +1,26 @@
 # Leonardo Barbosa
 
-**`Cientista de Dados ⚽ | Football Analytics | Python, SQL, Machine Learning | BI & Finanças | Instrutor CBF Academy
-`**
+🎯 *Cientista de Dados* | *Football Analytics ⚽* | *Python, SQL, Power BI, Machine Learning* | *Finanças e BI Estratégico*  
+📊 *Instrutor do MBA de Ciência de Dados da CBF Academy*  
+📺 Criador do canal [Leostats](https://www.youtube.com/@leostats)
 
-Sou Leonardo Barbosa, Cientista de Dados apaixonado por futebol, finanças e inovação. Natural de Minas Gerais, atuo em projetos de análise preditiva, visualização de dados, automação com Python e inteligência de negócios.
+---
 
-Sou instrutor do MBA de Ciência de Dados da CBF Academy, criador de conteúdo no canal [Leostats](https://www.youtube.com/@leonardobarbosa777) — onde ensino ciência de dados aplicada ao futebol — e atualmente desenvolvo soluções com foco em corretoras internacionais e previsão de comportamento de leads.
+Sou Leonardo Barbosa, Cientista de Dados apaixonado por **futebol, finanças e inovação**. Natural de Minas Gerais, atuo em projetos de **análise preditiva**, **visualização de dados**, **automação com Python** e **inteligência de negócios**.
 
-Neste perfil, compartilho meus projetos em Python, Power BI, Streamlit, Machine Learning e aplicações voltadas para futebol, mercado financeiro e inteligência comercial.
+💼 Atualmente, desenvolvo soluções com foco em:
+- **Corretoras internacionais**, com previsão de comportamento de leads e detecção de anomalias.
+- **Futebol profissional**, com análise de desempenho, scouting e modelagem preditiva.
+- **Mercado financeiro**, estruturando pipelines de dados, visualizações e modelos preditivos.
 
-🚀 Vamos juntos transformar dados em decisões estratégicas.
-.
+🎓 Como instrutor do MBA da **CBF Academy**, ensino profissionais da área esportiva a dominarem o uso de dados para tomada de decisões estratégicas.
 
+Neste perfil, compartilho projetos com:
+- Python (pandas, sklearn, streamlit)
+- Power BI e Tableau
+- Machine Learning & Modelagem Preditiva
+- Análise de leads, churn, comportamento e fraude
+- Visualizações profissionais e dashboards de impacto
 
 ---
 
@@ -48,123 +57,18 @@ Neste perfil, compartilho meus projetos em Python, Power BI, Streamlit, Machine 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 📚 Tecnologias & Ferramentas
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-<br/>
-<br/>
+---
 
 ### 📊 Estatísticas
 
@@ -186,3 +90,18 @@ Neste perfil, compartilho meus projetos em Python, Power BI, Streamlit, Machine 
 
 
 </p>
+
+
+---
+
+### 📈 GitHub Stats
+
+![Leojoker GitHub Stats](https://github-readme-stats.vercel.app/api?username=leojoker&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leojoker&layout=compact&theme=radical)
+
+---
+
+### 📎 Contato
+- 📧 **leodanimanu@gmail.com**
+- 📊 [YouTube - Leostats](https://www.youtube.com/@leostats)
+- 💼 [LinkedIn](https://www.linkedin.com/in/leonardo-barbosa-dados/)
