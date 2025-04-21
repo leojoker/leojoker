@@ -1,4 +1,4 @@
-# ![alt text](/assets/image.png) Leonardo Barbosa
+# Leonardo Barbosa
 
 **`Cientista de Dados ⚽ | Football Analytics | Python, SQL, Machine Learning | BI & Finanças | Instrutor CBF Academy
 `**
