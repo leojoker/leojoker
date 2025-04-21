@@ -94,14 +94,7 @@ Neste perfil, compartilho projetos com:
 
 ---
 
-### 📈 GitHub Stats
-
-![Leojoker GitHub Stats](https://github-readme-stats.vercel.app/api?username=leojoker&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leojoker&layout=compact&theme=radical)
-
----
-
 ### 📎 Contato
 - 📧 **leodanimanu@gmail.com**
 - 📊 [YouTube - Leostats](https://www.youtube.com/@leostats)
-- 💼 [LinkedIn](https://www.linkedin.com/in/leonardo-barbosa-dados/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/leonardo-barbosa777/)
