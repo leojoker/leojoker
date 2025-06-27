@@ -2,7 +2,7 @@
 
 🎯 *Cientista de Dados* | *Football Analytics ⚽* | *Python, SQL, Power BI, Machine Learning* | *Finanças e BI Estratégico*  
 📊 *Instrutor do MBA de Ciência de Dados da CBF Academy*  
-📺 Criador do canal [Leostats](https://www.youtube.com/@leostats)
+📺 Criador do canal [Leostats](https://www.youtube.com/@leonardobarbosa777)
 
 ---
 
