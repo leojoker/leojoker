@@ -94,6 +94,6 @@ Neste perfil, compartilho projetos com:
 ---
 
 ### 📎 Contato
-- 📧 **leodanimanu@gmail.com**
+- 📧 **contato@leostats.com.br**
 - 📊 [YouTube - Leostats](https://www.youtube.com/@leostats)
 - 💼 [LinkedIn](https://www.linkedin.com/in/leonardo-barbosa777/)
